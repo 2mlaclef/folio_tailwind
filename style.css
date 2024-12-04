@@ -131,6 +131,8 @@
 .max-w-sm {
     flex: 1; /* Make cards flexible to adapt to screen size */
     max-width: 300px; /* Set a maximum width */
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .max-w-sm {
